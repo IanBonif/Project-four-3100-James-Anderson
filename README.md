@@ -3,15 +3,16 @@
 
 Project description can be found [in the repo](Project4_HashTable.pdf)
 
-Place your complexity analysis below.
-insert
-O(n) because it loops through vector if full
-remove 
-O(n) because it loops through vector if not in there
-contain
-O(n) because it loops through vector if not in there
-get
-O(n) because it loops through vector if not in there
-operator[]
-O(n) because it loops through vector if not in there
+Place your complexity analysis below.\
+insert\
+O(n) because it loops through vector if full\
+remove \
+O(n) because it loops through vector if not in there\
+contain\
+O(n) because it loops through vector if not in there\
+get\
+O(n) because it loops through vector if not in there\
+operator[]\
+O(n) because it loops through vector if not in there\
 ---
+
